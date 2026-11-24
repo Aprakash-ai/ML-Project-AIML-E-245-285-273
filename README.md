@@ -4,7 +4,7 @@ CSE AIML - E
 
 Group Members:- 
 
-Smeeksha Sangra - RA2411026030245
-Aditya Prakash - RA2411026030273
+Smeeksha Sangra - RA2411026030245,
+Aditya Prakash - RA2411026030273,
 Akanksha Ashi - RA2411026030285
 
